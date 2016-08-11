@@ -1,0 +1,13 @@
+{
+	"name" : "lock-unlock-ios-toggle",
+	"description" : "Lock and Unlock selections toggle button",
+	"preview": "lock-unlock-ios-toggle.png",
+	"type" : "visualization",
+	"version": "2.0.0",
+	"author": "Deepak Vadithala (DV)",
+	"homepage" : "www.QlikShare.com",
+	"keywords" : "qlik-sense, visualization, lock, unlock",
+	"license" : "MIT",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=2.1.x" }
+}
