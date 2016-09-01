@@ -18,3 +18,4 @@ Any questions, please tweet ([@dvadithala](https://twitter.com/dvadithala)) or l
 
 ------------------------------------------------------------
 
+![How to use](https://github.com/iamdv/sense-lock-unlock-ios-toggle/blob/master/sense-lock-unlock-ios-toggle.gif)
